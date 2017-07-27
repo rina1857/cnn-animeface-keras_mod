@@ -2,9 +2,10 @@
 
 ## 概要
 http://qiita.com/hogefugabar/items/afb4f6c9a93a4bbda51a  
-http://qiita.com/sartan123/items/6abd5e0d814029f9c7d5  
-こちらのURLの(自分用)改造版です。  
-幾つかの機能のアップデートで対応させています。  
+http://qiita.com/sartan123/items/6abd5e0d814029f9c7d5  
+
+こちらのURLの(自分用)改造版です。   
+幾つかの機能のアップデートで対応させています。  
 
 ## usage
 
