@@ -14,6 +14,7 @@ $ cd cnn-animeface-keras_mod
 $ wget http://www.nurs.or.jp/%7Enagadomi/animeface-character-dataset/data/animeface-character-dataset.zip  
 $ unzip animeface-character-dataset.zip  
 $ python dataset_predisporsal.py  
+$ python anime_face.py  
 $ python load_anime_face.py  
 ```
 
