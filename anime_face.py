@@ -21,7 +21,6 @@ a_train, a_test, b_train, b_test = train_test_split(X_test,Y_target)
 model = Sequential()
 
 model.add(Convolution2D(96, 3, 3, border_mode='same', input_shape=(3, 32, 32)))
-#model.add(Conv2D(96, 3, 3, border_mode='same', input_shape=(3, 32, 32))) ##update
 model.add(Activation('relu'))
 
 model.add(Convolution2D(128, 3, 3))
